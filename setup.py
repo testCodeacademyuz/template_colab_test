@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-   name='control_flow_statements',
+   name='package_name',
    version='0.1.0',
-   packages=['control_flow_statements'],
-   description='This is control_flow_statements Test',
+   packages=['package_name'],
+   description='This is package_name Test',
    install_requires=[
        "requests",
    ]
